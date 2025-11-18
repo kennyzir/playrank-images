@@ -1,0 +1,13 @@
+﻿# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+
+# 大文件（超过50MB）
+*.psd
+*.ai
